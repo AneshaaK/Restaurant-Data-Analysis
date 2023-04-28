@@ -9,4 +9,4 @@
     - Created tables in Bigquery with processed data
   - Data Visualization: 
     - Connected to Bigquery in Tableau Desktop
-    - Joined both tables and created date fileds, lociation hierarchy and visula tool tips for better analysis
+    - Joined both tables and created date fileds, lociation hierarchy and visual tool tips for better view
